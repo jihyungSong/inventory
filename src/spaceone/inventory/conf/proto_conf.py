@@ -15,4 +15,7 @@ PROTO = {
     'spaceone.inventory.api.v1.cloud_service_type': ['CloudServiceType'],
     'spaceone.inventory.api.v1.cloud_service': ['CloudService'],
     'spaceone.inventory.api.v1.resource_group': ['ResourceGroup'],
+    'spaceone.inventory.api.v1.device_type': ['DeviceType'],
+    'spaceone.inventory.api.v1.device_template': ['DeviceTemplate'],
+    'spaceone.inventory.api.v1.device': ['Device'],
 }

@@ -16,3 +16,6 @@ from spaceone.inventory.info.cloud_service_info import *
 from spaceone.inventory.info.collector_info import *
 from spaceone.inventory.info.collection_info import *
 from spaceone.inventory.info.resource_group_info import *
+from spaceone.inventory.info.device_type_info import *
+from spaceone.inventory.info.device_template_info import *
+from spaceone.inventory.info.device_info import *

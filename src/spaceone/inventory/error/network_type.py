@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 from spaceone.core.error import *
 
 class ERROR_EXIST_SUBNET_IN_NETWORK_TYPE(ERROR_BASE):

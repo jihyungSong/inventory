@@ -16,4 +16,8 @@ from spaceone.inventory.model.cloud_service_model import CloudService
 from spaceone.inventory.model.collection_info_model import CollectionInfo
 from spaceone.inventory.model.reference_resource_model import ReferenceResource
 from spaceone.inventory.model.resource_group_model import ResourceGroup
+from spaceone.inventory.model.device_type_model import DeviceType
+from spaceone.inventory.model.device_template_model import DeviceTemplate
+from spaceone.inventory.model.device_model import Device
+
 

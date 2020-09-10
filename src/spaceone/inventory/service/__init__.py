@@ -15,3 +15,7 @@ from spaceone.inventory.service.cloud_service_type_service import CloudServiceTy
 from spaceone.inventory.service.cloud_service_service import CloudServiceService
 from spaceone.inventory.service.cleanup_service import CleanupService
 from spaceone.inventory.service.resource_group_service import ResourceGroupService
+from spaceone.inventory.service.device_type_service import DeviceTypeService
+from spaceone.inventory.service.device_template_service import DeviceTemplateService
+from spaceone.inventory.service.device_service import DeviceService
+
